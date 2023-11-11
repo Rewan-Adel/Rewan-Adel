@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Rewan ✨
+<h1 align="center"> Hi there 👋, i'm Rewan ✨</h1>
 
 <!--
 
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 
 
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rewan-Adel&theme=light)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rewan-Adel&show_icons=true&locale=en&layout=compact" alt="Rewan-Adel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rewan-Adel&show_icons=true&locale=en" alt="Rewan-Adel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rewan-Adel&" alt="Rewan-Adel" /></p>
