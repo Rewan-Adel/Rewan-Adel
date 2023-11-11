@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 
 -->
-🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rewan-Adel&theme=light)](https://git.io/streak-stats)
