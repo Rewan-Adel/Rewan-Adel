@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> i'm Rewan ✨</h1>
+<h1 align="center"> Hi there, i'm Rewan ✨</h1>
 
 <!--
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rewan-adel/)**rewanadel1266@gmail.com**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rewan-adel/)  **rewanadel1266@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rewan-Adel&show_icons=true&locale=en&layout=compact" alt="Rewan-Adel" /></p>
 
