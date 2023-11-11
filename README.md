@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rewan-adel/)  **rewanadel1266@gmail.com**
 
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rewan-Adel&show_icons=true&locale=en&layout=compact" alt="Rewan-Adel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rewan-Adel&show_icons=true&locale=en" alt="Rewan-Adel" /></p>
