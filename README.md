@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rewan</h1>
+<h1 align="center">Rewan Adel Mahrous</h1>
 
 
 <!--
