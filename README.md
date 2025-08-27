@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-👨🏼‍💻I'm backEnd developer
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rewan-adel/)  **rewanadel1266@gmail.com**
 
 - LeetCode : https://leetcode.com/rewan_adel/
